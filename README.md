@@ -1,6 +1,12 @@
 # ATTHACK2018
 AT&amp;T Hackathon Honolulu 2018 Entry  
 
+## To install and run:
+
+`npm install -g exp`
+`npm install`
+`exp start`
+
 # ART&FACT: 
 
 An app made to promote the arts and to encourage folks to explore their city.  
