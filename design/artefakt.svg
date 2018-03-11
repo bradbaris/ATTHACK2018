@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(1.000000, 1.000000)" stroke="#000000">
+            <g id="Group-2">
+                <g id="Person" transform="translate(6.000000, 6.000000)" stroke-width="2">
+                    <path d="M17.5002441,24.0594933 L6.30932617,30.409668 L14.3581543,21.2912598 L14.3581543,15.984375 L6,6 L14.3581543,11.421875 L18.0004883,11.421875 L20.642334,11.421875 L29.0004883,6 L20.642334,15.984375 L20.642334,21.2912598 L28.6911621,30.409668 L17.5002441,24.0594933 Z" id="Combined-Shape" fill="#000000"></path>
+                    <path d="M17.2398682,24.1381985 L10.1826172,33.2609863 L13.3771973,21.4101562 L11.9296875,15.3833008 L0,11 L13.3771973,11 L17.4797363,11 L21.1025391,11 L34.4797363,11 L22.5500488,15.3833008 L21.1025391,21.4101562 L24.2971191,33.2609863 L17.2398682,24.1381985 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <circle id="Oval" fill="#FFFFFF" cx="17" cy="4" r="4"></circle>
+                </g>
+                <g id="Box" stroke-width="2">
+                    <circle id="Oval-2" cx="23" cy="23" r="23"></circle>
+                    <rect id="Rectangle" x="3" y="3" width="40" height="40"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Artifact",
+    "description": "An app made to promote the arts and to discover the stories behind public artwork.",
+    "slug": "artifact",
+    "sdkVersion": "25.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "primaryColor": "#ffb82b",
+    "privacy": "unlisted",
+    "icon": "./icon.png",
+    "splash": {
+      "backgroundColor": "#ffb82b",
+      "image": "./splash.png",
+      "resizeMode": "cover"
+    },
+    "android": {
+      "icon": "./icon-android.png",
+      "package": "com.nomadspaceship.artifact",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAA9nvIadci_vZ7XuUOlA2hG9PhCWmA1_0"
+        }
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.nomadspaceship.artifact"
+    }
+  }
+}
