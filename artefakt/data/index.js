@@ -2,32 +2,6 @@ import transformArtwork from './transformArtwork';
 
 const artworks = [
  {
-   "id": 200,
-   "type": "artwork",
-   "title": "AT&T Hackathon 2018",
-   "location": "Sacred Hearts Academy",
-   "creator": "AT&T Developer Program",
-   "credit": "",
-   "objectid": "0000.000.000",
-   "discipline": "Event",
-   "year": 2018,
-   "latitude": 21.28555556,
-   "longitude": -157.80722222, 
-   "description": "When these guys come into town, they sure do bring the food and prizes. They also really like Sacred Hearts Academy as a venue too. ",
-   "logo": "https://nomadspaceship.com/artifact/images/att_logo.png",
-   "logo_150": "https://nomadspaceship.com/artifact/images/thumbs/att.png",
-   "logo_small": "https://nomadspaceship.com/artifact/images/thumbs/att.png",
-   "logo_full": "https://nomadspaceship.com/artifact/images/att_logo.png",
-   "banner": "https://nomadspaceship.com/artifact/images/att_logo.png",
-   "banner_thumb": "https://nomadspaceship.com/artifact/images/att_logo.png",
-   "banner_medium": "https://nomadspaceship.com/artifact/images/att_logo.png",
-   "hours": { timezone: "Pacific/Honolulu", artwork_id:200, monday_open: "00:00:00", monday_close: "00:00:00", tuesday_open: "00:00:00", tuesday_close: "00:00:00", wednesday_open: "00:00:00", wednesday_close: "00:00:00", thursday_open: "00:00:00", thursday_close: "00:00:00", friday_open: "18:00:00", friday_close: "24:00:00", saturday_open: "08:00:00", saturday_close: "20:00:00", sunday_open: "00:00:00", sunday_close: "00:00:00", created_at: "-2018-03-10 00:00:00", updated_at: "-2018-03-10 06:00:00", status: "open" },
-   "color": "#ffb82b",
-   "accentColor": "#425470",
-   "created_at": "-2018-03-09 18:00:00",
-   "updated_at": "-2018-03-10 20:00:00"
- }, 
- {
    "id": 1,
    "type": "artwork",
    "title": "The Makahiki Festival - The Makai Mural",
@@ -5200,7 +5174,33 @@ const artworks = [
    "accentColor": "#425470",
    "created_at": "-2018-03-09 20:00:00",
    "updated_at": "-2018-03-10 60:00:00"
- }
+ },
+ {
+   "id": 200,
+   "type": "artwork",
+   "title": "AT&T Hackathon 2018",
+   "location": "Sacred Hearts Academy",
+   "creator": "AT&T Developer Program",
+   "credit": "",
+   "objectid": "0000.000.000",
+   "discipline": "Event",
+   "year": 2018,
+   "latitude": 21.28555556,
+   "longitude": -157.80722222, 
+   "description": "When these guys come into town, they sure do bring the food and prizes. They also really like Sacred Hearts Academy as a venue too. Hello everyone, if you can read this, you are within 50 meters of the geo-marker!",
+   "logo": "https://nomadspaceship.com/artifact/images/att_logo.png",
+   "logo_150": "https://nomadspaceship.com/artifact/images/thumbs/att.png",
+   "logo_small": "https://nomadspaceship.com/artifact/images/thumbs/att.png",
+   "logo_full": "https://nomadspaceship.com/artifact/images/att_logo.png",
+   "banner": "https://nomadspaceship.com/artifact/images/att_logo.png",
+   "banner_thumb": "https://nomadspaceship.com/artifact/images/att_logo.png",
+   "banner_medium": "https://nomadspaceship.com/artifact/images/att_logo.png",
+   "hours": { timezone: "Pacific/Honolulu", artwork_id:200, monday_open: "00:00:00", monday_close: "00:00:00", tuesday_open: "00:00:00", tuesday_close: "00:00:00", wednesday_open: "00:00:00", wednesday_close: "00:00:00", thursday_open: "00:00:00", thursday_close: "00:00:00", friday_open: "18:00:00", friday_close: "24:00:00", saturday_open: "08:00:00", saturday_close: "20:00:00", sunday_open: "00:00:00", sunday_close: "00:00:00", created_at: "-2018-03-10 00:00:00", updated_at: "-2018-03-10 06:00:00", status: "open" },
+   "color": "#ffb82b",
+   "accentColor": "#425470",
+   "created_at": "-2018-03-09 18:00:00",
+   "updated_at": "-2018-03-10 20:00:00"
+ } 
 ];
 
 export default artworks.map(b => transformArtwork(b, new Date()));
