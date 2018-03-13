@@ -1,5 +1,5 @@
 # ATTHACK2018
-AT&amp;T Hackathon Honolulu 2018 Entry  
+AT&amp;T Hackathon Honolulu 2018 Entry — **Won Best UX/UI/Design Award!**
 
 ## To install and run:
 
