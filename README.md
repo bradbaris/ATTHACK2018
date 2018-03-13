@@ -17,7 +17,7 @@ The idea revolves around geocached 'tour guide' stories for public artworks, unl
 
 I scraped the 2012 State of Hawaii's Public Art Database, and updated some of the missing fields. See the `/data` folder for more details.  
 
-Sources:
+Sources:  
 https://data.honolulu.gov/dataset/Public-Art/yef5-h88r  
 http://hiculturearts.pastperfectonline.com/  
 https://github.com/brentvatne/growler-prowler/  
