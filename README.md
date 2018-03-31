@@ -17,9 +17,9 @@ The idea revolves around geocached 'tour guide' stories for public artworks, unl
 
 I scraped the 2012 State of Hawaii's Public Art Database, and updated some of the missing fields. See the `/data` folder for more details.  
 
-![](https://nomadspaceship.com/artifact/images/artifact_preview1.jpg)
-![](https://nomadspaceship.com/artifact/images/artifact_preview2.jpg)
-![](https://nomadspaceship.com/artifact/images/artifact_preview3.jpg)
+![](https://nomadspaceship.com/artifact/images/artifact_preview1.jpg?1)
+![](https://nomadspaceship.com/artifact/images/artifact_preview2.jpg?1)
+![](https://nomadspaceship.com/artifact/images/artifact_preview3.jpg?1)
 
 Sources:  
 https://data.honolulu.gov/dataset/Public-Art/yef5-h88r  
